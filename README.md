@@ -66,5 +66,7 @@ The template is **SCSS-based**, well-documented, and developer-friendly, making 
 Click the **Code** button on this repository and choose **Download ZIP**,  
 or clone the repository:
 
+![Home Page](assets/screenshots/home.png)
+
 ```bash
 git clone https://github.com/techmahr/DineCraft.git
