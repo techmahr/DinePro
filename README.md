@@ -74,5 +74,17 @@ git clone https://github.com/techmahr/DineCraft.git
 
 ## 📦 Screenshots 
 ![Home Page](assets/screenshots/home.png)
+![About Page](assets/screenshots/about.png)
+![Menu Classic Page](assets/screenshots/menu-classic.png)
+![Menu Showcase Page](assets/screenshots/menu-showcase.png)
+![Our Chefs Page](assets/screenshots/our-chefs.png)
+![Gallery Page](assets/screenshots/gallery.png)
+![Boot A Table Page](assets/screenshots/book-a-table.png)
+![BLog Page](assets/screenshots/blog.png)
+![Blog Details Page](assets/screenshots/blog-details.png)
+![Contact Page](assets/screenshots/contact.png)
+![FAQ Page](assets/screenshots/faq.png)
+![Privacy Policy Page](assets/screenshots/privacy-policy.png)
+![Terms & Conditions Page](assets/screenshots/terms-and-conditions.png)
 
 
