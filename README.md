@@ -69,6 +69,9 @@ or clone the repository:
 ```bash
 git clone https://github.com/techmahr/DineCraft.git
 
+---
+
+## 📦 Screenshots 
 ![Home Page](assets/screenshots/home.png)
 
 
