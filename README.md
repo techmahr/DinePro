@@ -71,6 +71,13 @@ git clone https://github.com/techmahr/DineCraft.git
 
 ---
 
+## 🛠️ Tech Stack
+
+- HTML5  
+- SCSS  
+- Bootstrap **5.3.8**  
+- JavaScript  
+
 ## 📦 Screenshots 
 ![Home Page](assets/screenshots/home.png)
 
