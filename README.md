@@ -1,26 +1,26 @@
-# DineCraft 🍽️  
+# DinePro 🍽️  
 Free Bootstrap Restaurant Website Template
 
-DineCraft is a **free, modern, and responsive Bootstrap restaurant website template** designed for restaurants, cafés, bistros, food courts, and culinary businesses of all kinds. Built with **Bootstrap 5.3.8**, it delivers a fast, mobile-first experience across all devices.
+DinePro is a **free, modern, and responsive Bootstrap restaurant website template** designed for restaurants, cafés, bistros, food courts, and culinary businesses of all kinds. Built with **Bootstrap 5.3.8**, it delivers a fast, mobile-first experience across all devices.
 
 The template is **SCSS-based**, well-documented, and developer-friendly, making customization simple and efficient. With a complete set of ready-to-use pages, you can launch a professional restaurant website in minutes—no heavy setup required.
 
-![Banner](https://github.com/techmahr/DineCraft/blob/ceef04413950469877ac61a570df1e7efbc4621f/DineCraft-Poster-Small.jpg)
+![Banner](https://github.com/techmahr/DinePro/blob/ceef04413950469877ac61a570df1e7efbc4621f/DinePro-Poster-Small.jpg)
 
 
 ## 🔗 Live Demo
 
-- 🚀 <a href="https://techmahr.github.io/DineCraft/" target="_blank" rel="noopener">View Live Demo</a>
-- <a href="https://techmahr.github.io/DineCraft/index.html" target="_blank" rel="noopener">Home Carousel Page</a>
-- <a href="https://techmahr.github.io/DineCraft/home-image.html" target="_blank" rel="noopener">Home Image Page</a>
-- <a href="https://techmahr.github.io/DineCraft/home-video.html" target="_blank" rel="noopener">Home Video Page</a>
-- <a href="https://techmahr.github.io/DineCraft/about.html" target="_blank" rel="noopener">About Page</a>
-- <a href="https://techmahr.github.io/DineCraft/menu-classic.html" target="_blank" rel="noopener">Menu Classic</a>
-- <a href="https://techmahr.github.io/DineCraft/menu-showcase.html" target="_blank" rel="noopener">Menu Showcase</a>
-- <a href="https://techmahr.github.io/DineCraft/reservation.html" target="_blank" rel="noopener">Reservation</a>
-- <a href="https://techmahr.github.io/DineCraft/blog.html" target="_blank" rel="noopener">Blog</a>
-- <a href="https://techmahr.github.io/DineCraft/blog-details.html" target="_blank" rel="noopener">Blog Details</a>
-- <a href="https://techmahr.github.io/DineCraft/contact.html" target="_blank" rel="noopener">Contact</a>
+- 🚀 <a href="https://techmahr.github.io/DinePro/" target="_blank" rel="noopener">View Live Demo</a>
+- <a href="https://techmahr.github.io/DinePro/index.html" target="_blank" rel="noopener">Home Carousel Page</a>
+- <a href="https://techmahr.github.io/DinePro/home-image.html" target="_blank" rel="noopener">Home Image Page</a>
+- <a href="https://techmahr.github.io/DinePro/home-video.html" target="_blank" rel="noopener">Home Video Page</a>
+- <a href="https://techmahr.github.io/DinePro/about.html" target="_blank" rel="noopener">About Page</a>
+- <a href="https://techmahr.github.io/DinePro/menu-classic.html" target="_blank" rel="noopener">Menu Classic</a>
+- <a href="https://techmahr.github.io/DinePro/menu-showcase.html" target="_blank" rel="noopener">Menu Showcase</a>
+- <a href="https://techmahr.github.io/DinePro/reservation.html" target="_blank" rel="noopener">Reservation</a>
+- <a href="https://techmahr.github.io/DinePro/blog.html" target="_blank" rel="noopener">Blog</a>
+- <a href="https://techmahr.github.io/DinePro/blog-details.html" target="_blank" rel="noopener">Blog Details</a>
+- <a href="https://techmahr.github.io/DinePro/contact.html" target="_blank" rel="noopener">Contact</a>
 
 ---
 
@@ -67,7 +67,7 @@ Click the **Code** button on this repository and choose **Download ZIP**,
 or clone the repository:
 
 ```bash
-git clone https://github.com/techmahr/DineCraft.git
+git clone https://github.com/techmahr/DinePro.git
 ```
 ---
 
